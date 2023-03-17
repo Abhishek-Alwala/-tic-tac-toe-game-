@@ -1,0 +1,25 @@
+table, td {
+    background-color: aqua;
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    width: 300px;
+    height: 80px;
+    align-items: center;
+    
+}
+body{
+    background-color:bisque;
+
+}
+h1{
+    text-align: center;
+    align-items: center;
+    color: blue;
+}
+button:hover{
+    color:sandybrown;
+    
+}
